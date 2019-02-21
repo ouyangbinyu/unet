@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-#我做的修改  git
+#我做的修改  git1
 INPUT_NODE = 256*256
 OUTPUT_NODE = 256*256
 
